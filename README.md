@@ -85,3 +85,31 @@ This is the main repository for all of the projects in the course.
 git clone https://github.com/yourusername/50projects50days.git
 cd 50projects50days
 ```
+
+---
+
+## 🙋‍♂️ About Me
+
+**Neeraj Kumar**  
+🎓 Final Year B.Tech IT Student  
+🏫 GL Bajaj Institute of Technology & Management, Greater Noida  
+🌐 [GitHub Profile](https://github.com/Neerajkumar151)
+
+---
+
+## ⭐ Show Some Love
+
+If you like this project:
+
+- ⭐ Star the repo  
+- 📌 Share it  
+- 📥 Fork it  
+- 💡 Contribute your ideas  
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+

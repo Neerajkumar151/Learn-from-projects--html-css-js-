@@ -1,9 +1,8 @@
 # 50 Projects in 50 Days - HTML/CSS and JavaScript
+# Learn By Making Projects
 
 This is the main repository for all of the projects in the course.
-
--   [Course Link](https://www.traversymedia.com/50-Projects-In-50-Days)
-
+---
 
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
@@ -59,29 +58,30 @@ This is the main repository for all of the projects in the course.
 | 50  | [Insect Catch Game](https://github.com/bradtraversy/50projects50days/tree/master/insect-catch-game)                         | [Live Demo](https://50projects50days.com/projects/insect-catch-game/)             |
 | 51  | [Simple Timer](https://github.com/bradtraversy/50projects50days/tree/master/simple-timer)                                   | [Live Demo](https://50projects50days.com/projects/simple-timer/)             |
 
-**NOTE ON PULL REQUESTS**: All of these projects are part of the course. While I do appreciate people trying to make some things prettier or adding new features, we are only accepting pull requests and looking at issues for bug fixes so that the code stays inline with the course
 
-## License
+---
 
-The MIT License
+## 💡 Features
 
-Copyright (c) 2020-2021 Traversy Media https://traversymedia.com
+- 50+ mini projects
+- Clean and responsive UI
+- Pure HTML, CSS, and JavaScript
+- Great for practice and interviews
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+---
 
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
+## 🧰 Tech Stack
 
-🔹 Software Disclaimer 🔹
+- HTML5
+- CSS3 (Flexbox, Grid, Animations)
+- JavaScript (ES6+)
+- REST APIs (in some projects)
 
-🛠️ Provided "As Is" – No guarantees, use at your own risk.
-📜 No Warranty – No promises on performance or fitness for any purpose.
-⚖️ No Liability – Authors aren't responsible for any damages or claims.
-🔄 Use Freely – But at your own discretion and responsibility.
+---
 
-🚀 In short: Use it, but don’t blame us! 😃
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/yourusername/50projects50days.git
+cd 50projects50days
+```
